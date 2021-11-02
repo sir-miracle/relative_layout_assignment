@@ -16,14 +16,14 @@
             android:layout_width="match_parent"
             android:layout_height="100dp"
             android:layout_marginBottom="15dp"
-            android:background="@color/purple_200" />
+            android:background="@color/my_purple" />
 
         <View
             android:id="@+id/second"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_below="@id/first"
-            android:background="#A5A3AA" />
+            android:background="@color/my_ash" />
 
         <View
             android:id="@+id/third"
@@ -31,7 +31,7 @@
             android:layout_height="150dp"
             android:layout_below="@id/second"
             android:layout_marginTop="15dp"
-            android:background="#199E41" />
+            android:background="@color/my_green" />
 
         <View
             android:id="@+id/fourth"
@@ -39,7 +39,7 @@
             android:layout_height="300dp"
             android:layout_below="@id/third"
             android:layout_marginTop="15dp"
-            android:background="@color/purple_200" />
+            android:background="@color/my_purple" />
 
         <View
             android:id="@+id/fifth"
@@ -47,7 +47,7 @@
             android:layout_height="200dp"
             android:layout_below="@id/fourth"
             android:layout_marginTop="15dp"
-            android:background="@color/purple_200" />
+            android:background="@color/my_purple" />
 
     </RelativeLayout>
 
